@@ -1,0 +1,7 @@
+libft-war-machine/
+libft/
+a.out
+*.o
+*.a
+*:Zone.Identifier
+
